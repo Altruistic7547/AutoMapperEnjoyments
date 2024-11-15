@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMapperEnjoyments.Core", "AutoMapperEnjoyments.Core\AutoMapperEnjoyments.Core.csproj", "{AD29025B-070D-41F0-B79E-117129970BEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMapperEnjoyments.ConsoleApp", "AutoMapperEnjoyments.ConsoleApp\AutoMapperEnjoyments.ConsoleApp.csproj", "{2617A396-7E35-4C4F-8EF1-6628C0977795}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMapperEnjoyments.MapsUnitTests", "AutoMapperEnjoyments.MapsUnitTests\AutoMapperEnjoyments.MapsUnitTests.csproj", "{C0326C37-206C-4250-B6CF-5913052103B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C883C83-BC95-44F3-8B83-ED80E6792BF5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD29025B-070D-41F0-B79E-117129970BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD29025B-070D-41F0-B79E-117129970BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD29025B-070D-41F0-B79E-117129970BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD29025B-070D-41F0-B79E-117129970BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2617A396-7E35-4C4F-8EF1-6628C0977795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2617A396-7E35-4C4F-8EF1-6628C0977795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2617A396-7E35-4C4F-8EF1-6628C0977795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2617A396-7E35-4C4F-8EF1-6628C0977795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0326C37-206C-4250-B6CF-5913052103B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0326C37-206C-4250-B6CF-5913052103B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0326C37-206C-4250-B6CF-5913052103B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0326C37-206C-4250-B6CF-5913052103B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7679118D-1517-4375-81ED-7872EC6A2336}
+	EndGlobalSection
+EndGlobal
